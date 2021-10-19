@@ -9,7 +9,9 @@
 ## Table of contents
 - [Project task](#project-task)
 - [Features](#features)
+- [Built with](#built-with)
 - [Installation](#installation)
+- [Screenshots](#screenshots)
 
 
 ## Project task
@@ -31,7 +33,15 @@ Now user can easily search his table with the search bar right above it or he ca
 
 All of the data user has submitted is saved in a .txt file inside of the applications folder.
 
+## Built with
+Java was the only language used for this project with the help of Swing GUI.
+
 ## Installation
 1. Clone the repository
 2. Enter the dist folder
 3. From there simply start the .jar application and you're all set
+
+## Screenshots
+<p align="center">
+  <img width="400" alt="Main window of the application" src="https://user-images.githubusercontent.com/25035576/137952575-3d65b14f-bddb-492e-b04b-abbf1160f8b0.png">  <img width="400" alt="Movie submit window" src="https://user-images.githubusercontent.com/25035576/137952594-d1935df7-2e99-4364-9358-8a4bba46f119.png">
+</p>

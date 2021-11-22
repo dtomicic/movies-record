@@ -1,7 +1,7 @@
 <h1 align="center">
-  Movie records desktop application
+  Stats preview card
   <br>
-  (University project)
+  (Frontend mentor project)
 </h1>
 <br>
 
